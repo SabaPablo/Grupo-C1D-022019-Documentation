@@ -90,4 +90,4 @@ Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE.md
 [issues-shield]: https://img.shields.io/github/issues/wisaku/Grupo-C1D-022019-Documentation
 [issues-url]: https://github.com/wisaku/Grupo-C1D-022019-Documentation/issues
 [license-shield]: https://img.shields.io/github/license/wisaku/Grupo-C1D-022019-Documentation
-[license-url]: https://github.com/wisaku/Grupo-C1D-022019-Documentation/blob/master/LICENSE
+[license-url]: https://github.com/wisaku/Grupo-C1D-022019-Documentation/blob/master/LICENSE.md
