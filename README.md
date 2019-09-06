@@ -12,6 +12,11 @@ Aplicación para pedidos de viandas ejecutivas
 
 Estas instrucciones le proporcionarán una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte la implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
 
+El proyecto cuenta con dos repositorios. 
+Uno para el Back-End:
+[back-End](https://github.com/wisaku/Grupo-C1D-022019-Back)
+Y otro para el Front-End: 
+[front-End](https://github.com/wisaku/Grupo-C1D-022019-Front)
 ### Prerrequisitos
 
 Para instalar el proyecto se requiere previamete instalados
@@ -33,7 +38,7 @@ git clone https://github.com/wisaku/Grupo-C1D-022019-Back
 seguimos clonando el repositorio correspondiente al front-end escribiendo..
 
 ```
-https://github.com/wisaku/Grupo-C1D-022019-Front
+git clone https://github.com/wisaku/Grupo-C1D-022019-Front
 ```
 
 Dentro de la raiz del front-end para bajar las dependencias ejecutamos :
