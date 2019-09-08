@@ -1,4 +1,7 @@
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors-back][contributors-shield]][contributors-back-url]
+[![Contributors-front][contributors-shield]][contributors-front-url]
+[![Build Status front](https://travis-ci.org/wisaku/Grupo-C1D-022019-Front.svg?branch=master)](https://travis-ci.com/wisaku/Grupo-C1D-022019-Front)
+[![Build Status back](https://travis-ci.org/wisaku/Grupo-C1D-022019-Back.svg?branch=master)](https://travis-ci.com/wisaku/Grupo-C1D-022019-Back)
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
@@ -17,6 +20,12 @@ Uno para el Back-End:
 [back-End](https://github.com/wisaku/Grupo-C1D-022019-Back)
 Y otro para el Front-End: 
 [front-End](https://github.com/wisaku/Grupo-C1D-022019-Front)
+
+## Avances
+
+El proyecto se lleva a cabo con metodologias agiles. Para lo que manejamos un tablero para la coordinacion de las tareas, el cual se puede encontrar en este enlace
+[Tablero](https://trello.com/b/RIkRhqgd/viandas-ya)
+
 ### Prerrequisitos
 
 Para instalar el proyecto se requiere previamete instalados
@@ -91,7 +100,9 @@ Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE.md
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/wisaku/Grupo-C1D-022019-Documentation
-[contributors-url]: https://github.com/wisaku/Grupo-C1D-022019-Documentation/graphs/contributors
+[contributors-back-url]: https://github.com/wisaku/Grupo-C1D-022019-Back/graphs/contributors
+[contributors-front-url]: https://github.com/wisaku/Grupo-C1D-022019-Front/graphs/contributors
+
 [issues-shield]: https://img.shields.io/github/issues/wisaku/Grupo-C1D-022019-Documentation
 [issues-url]: https://github.com/wisaku/Grupo-C1D-022019-Documentation/issues
 [license-shield]: https://img.shields.io/github/license/wisaku/Grupo-C1D-022019-Documentation
