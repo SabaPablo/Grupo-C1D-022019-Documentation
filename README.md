@@ -94,7 +94,7 @@ npm start
 ## Profesores
 * ?
 * ?
-
+* Juan Pablo Mottesi
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENSE.md] (LICENSE.md) para más detalles
