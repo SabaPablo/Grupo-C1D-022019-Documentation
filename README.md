@@ -13,7 +13,7 @@
 # ViendasYa
 
 Aplicación para pedidos de viandas ejecutivas
-
+[Enunciado](https://docs.google.com/document/d/17QABkh7KEPPmly7Be-64SxATOCx3nJkPMi5mqjXMBBY/edit)
 ## Empezando
 
 Estas instrucciones le proporcionarán una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte la implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
