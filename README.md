@@ -92,8 +92,8 @@ npm start
 * **Sabaliauskas Pablo** - *Desarrollador* - [GitHub](https://github.com/wisaku)
 
 ## Profesores
-* ?
-* ?
+* Cristian López
+* Juan Pablo Delpino
 * Juan Pablo Mottesi
 ## Licencia
 
