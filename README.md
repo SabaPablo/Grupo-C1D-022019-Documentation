@@ -12,6 +12,13 @@
 
 # ViendasYa
 
+## App Deploy
+### Back-End
+  - [Base URL](https://viandas-ya-api.herokuapp.com)
+  - [Api Documentation](https://viandas-ya-api.herokuapp.com/swagger-ui.html)
+### Front-End
+  - Proximamente
+
 Aplicación para pedidos de viandas ejecutivas
 [Enunciado](https://docs.google.com/document/d/17QABkh7KEPPmly7Be-64SxATOCx3nJkPMi5mqjXMBBY/edit)
 ## Empezando
