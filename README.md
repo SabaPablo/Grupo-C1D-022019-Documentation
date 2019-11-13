@@ -1,11 +1,11 @@
 ## Front
 [![Contributors-front][contributors-shield]][contributors-front-url]
 [![Build Status front](https://travis-ci.org/wisaku/Grupo-C1D-022019-Front.svg?branch=master)](https://travis-ci.com/wisaku/Grupo-C1D-022019-Front)
-[![Tag front](https://img.shields.io/github/v/tag/wisaku/Grupo-C1D-022019-Front)
+![Tag front](https://img.shields.io/github/v/tag/wisaku/Grupo-C1D-022019-Front)
 ## Back
 [![Contributors-back][contributors-shield]][contributors-back-url]
 [![Build Status back](https://travis-ci.org/wisaku/Grupo-C1D-022019-Back.svg?branch=master)](https://travis-ci.com/wisaku/Grupo-C1D-022019-Back)
-[![Tag back](https://img.shields.io/github/v/tag/wisaku/Grupo-C1D-022019-Back)
+![Tag back](https://img.shields.io/github/v/tag/wisaku/Grupo-C1D-022019-Back)
 ## General
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
